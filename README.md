@@ -1,1 +1,1 @@
-# waltes-exceptions-pracise-csharp
+# walters-exceptions-pracise-csharp
